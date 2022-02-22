@@ -78,7 +78,7 @@ button{
 }
 
 audio{
-    opacity: 1;
+    opacity: 1;transform: scale(0.7);
 }
 
 @media screen and (min-width: 900px) {
